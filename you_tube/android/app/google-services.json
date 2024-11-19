@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531479581225",
+    "project_id": "fir-bf78b",
+    "storage_bucket": "fir-bf78b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531479581225:android:b854b61dee45459e904238",
+        "android_client_info": {
+          "package_name": "com.example.you_tube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBubkMA7ab7RogEEU3XR4R-PQyr8gyrr-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
